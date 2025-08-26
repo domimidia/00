@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+header img {
+    width: 150px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.red {
+    color: red;
+}
+
+main {
+    margin: 50px 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0;
+    background-color: #111;
+    font-size: 0.9em;
+}
